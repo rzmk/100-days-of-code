@@ -1,1 +1,8 @@
-.vscode
+# Ignore Markdown formatting being inconsistent with markdownlint
+.prettierignore
+
+# Ignore virtual environments
+venv
+
+# Ignore random cache
+__pycache__
