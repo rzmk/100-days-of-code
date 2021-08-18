@@ -31,4 +31,4 @@ Just a preference, but it's really cool!
 
 :::
 
-> [Check out all of the code for all of my project code, this website, and the API  by clicking here!](https://github.com/rzmk/100-days-of-code)
+> [Check out all of the code for all of my projects, this website, and the API by clicking here!](https://github.com/rzmk/100-days-of-code)
