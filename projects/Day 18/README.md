@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2018/README.md
+---
+
 # Day 18 - Turtle & the Graphical User Interface (GUI)
 
 - Developed various basic turtle graphics.

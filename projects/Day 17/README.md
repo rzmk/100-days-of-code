@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2017/README.md
+---
+
 # Day 17 - Implementing Classes
 
 - Learned the structure of creating a class with its attributes, methods, and how to initialize objects

@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2019/README.md
+---
+
 # Day 19 - Instances, State, and Higher Order Functions
 
 - Built an etch-a-sketch while understanding higher order functions

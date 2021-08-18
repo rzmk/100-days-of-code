@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2021/README.md
+---
+
 # Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
 
 - Built a snake game.

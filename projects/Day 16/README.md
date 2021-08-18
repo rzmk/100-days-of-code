@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2016/README.md
+---
+
 # Day 16 - Learning OOP with Python
 
 - OOP concepts were taught in the source main.py file, such as classes, attributes, and methods. The Turtle and prettytable packages were also used to explore these concepts, and I installed prettytable in a virtual environment for this.

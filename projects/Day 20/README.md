@@ -1,3 +1,7 @@
+---
+custom_edit_url: https://github.com/rzmk/100-days-of-code/edit/main/projects/Day%2020/README.md
+---
+
 # Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 
 - Made a controllable snake, and will complete the full snake game on Day 21.
