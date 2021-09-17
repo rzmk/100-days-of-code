@@ -22,6 +22,6 @@ This website is built with **[Docusaurus](https://docusaurus.io/)** and continuo
 
 ### Instant README Collection with FastAPI
 
-An optimized FastAPI framework running on a Uvicorn ASGI server continuously deployed with all project READMEs for website display and with READMEs scraped from their project folders on GitHub. [This Docusaurus plugin](https://github.com/rdilweb/docusaurus-plugin-remote-content) then grabs the data for each of these days and adds it to the production build.
+An optimized FastAPI framework running on a Uvicorn ASGI server continuously deployed with all project READMEs for website display and with READMEs scraped from their project folders on GitHub. **[This Docusaurus plugin](https://github.com/rdilweb/docusaurus-plugin-remote-content)** then grabs the data for each of these days and adds it to the production build.
 
 The pages are collected from my README files within the projects folder in my **[repository on GitHub](https://github.com/rzmk/100-days-of-code)** for each day, scraped with **[FastAPI](https://fastapi.tiangolo.com/)** that runs on a **[Uvicorn ASGI server](https://www.uvicorn.org/)** which is hosted on **[Heroku](https://www.heroku.com/)**.
